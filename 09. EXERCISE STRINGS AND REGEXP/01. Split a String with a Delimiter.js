@@ -1,0 +1,1 @@
+((text, delimiter) => text.split(delimiter).join('\n'));

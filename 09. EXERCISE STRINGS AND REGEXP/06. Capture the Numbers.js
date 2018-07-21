@@ -1,0 +1,1 @@
+(strings => strings.join(' ').match(/[0-9]+/g).join(' '));

@@ -1,0 +1,1 @@
+((mainOne, start) => mainOne.endsWith(start));

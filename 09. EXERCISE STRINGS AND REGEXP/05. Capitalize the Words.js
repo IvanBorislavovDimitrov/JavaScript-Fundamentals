@@ -1,0 +1,1 @@
+(mainOne => mainOne.toLowerCase().split(' ').map(m => m[0].toUpperCase() + m.substr(1)).join(' '));
