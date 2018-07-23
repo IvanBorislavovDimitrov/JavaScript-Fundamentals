@@ -83,5 +83,4 @@ function arenaTier(input) {
             console.log(`- ${s1[0]} <!> ${s1[1]}`);
         });
     });
-
 }
